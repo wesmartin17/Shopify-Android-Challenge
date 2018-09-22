@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shopify Challenge 2019</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inventory_total">Inventory: %1$d</string>
+    <string name="inventory_item">● %1$s: %2$s</string>
+</resources>
